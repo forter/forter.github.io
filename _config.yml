@@ -1,1 +1,8 @@
 theme: jekyll-theme-hacker
+title: Open Source @ Forter
+description: Forter's Open Source Home Page
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
