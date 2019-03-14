@@ -1,1 +1,6 @@
-theme: jekyll-theme-hacker
+remote_theme: projectpages/project-pages/
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
