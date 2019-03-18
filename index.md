@@ -1,1 +1,3 @@
-# [Forter Web Components](https://github.com/forter/web-components)
+# Forter Web Components
+ - [Demo](https://components.forter.com)
+ - [Repo](https://github.com/forter/web-components)
